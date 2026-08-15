@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://planetwin365.cfd/sitemap.xml
+Sitemap: https://planetwin365.cfd/sitemap_index.xml
